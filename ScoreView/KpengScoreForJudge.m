@@ -122,7 +122,7 @@
 
 
 @interface KpengScoreForJudge()
-@property (nonatomic,strong) NSMutableArray<KpengScoreView *> *starViews;
+@property (nonatomic,strong) NSMutableArray *starViews;
 @end
 
 @implementation KpengScoreForJudge
